@@ -1,16 +1,13 @@
-## Hi there 👋
+## Olá, meu nome é Estefany Bianca 
 
-<!--
-**Estefany-Bianca/Estefany-Bianca** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<p align="left">
+Atualmente, sou estudante de<strong> Análise e Desenvolvimento de Sistemas</strong> com previsão de conclusão em 2026 e busco uma transição para a área de desenvolvimento de software. Com uma sólida base como técnico em elétrica, trago um olhar prático e analítico para resolução de problemas. Estou sempre aprimorando minhas habilidades por meio de cursos na Alura, mantendo-me atualizado e preparado para as demandas do mercado. Estou em busca de um estágio ou oportunidade que me permita aplicar e expandir meus conhecimentos em tecnologia
+</p>
 
-Here are some ideas to get you started:
+<p align="left">
+Linguagens: <strong>C#</strong>, <strong>Golang</strong>
+</p>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<p align="left">
+Banco de Dados: <strong>MySQL</strong>,<strong>Postgre</strong>
+</p>
