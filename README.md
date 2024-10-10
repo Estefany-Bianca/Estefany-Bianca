@@ -5,7 +5,7 @@ Atualmente, sou estudante de<strong> Análise e Desenvolvimento de Sistemas</str
 </p>
 
 <p align="left">
-Linguagens: <strong>C#</strong>, <strong>Golang</strong>
+Linguagens: <strong>C#</strong>, <strong>Go</strong>
 </p>
 
 <p align="left">
