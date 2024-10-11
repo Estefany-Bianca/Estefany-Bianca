@@ -6,7 +6,7 @@ Atualmente, sou estudante de<strong> Análise e Desenvolvimento de Sistemas</str
 
 
 ## 👨‍💻 Linguagens:
-[![My Skills](https://skillicons.dev/icons?i=html,css,javascript,cs,go)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=html,css,javascript,cpp,cs,go)](https://skillicons.dev)
 
 
 ## 🗄️ Bancos de Dados: 
