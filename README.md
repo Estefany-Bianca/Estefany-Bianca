@@ -5,22 +5,23 @@ Atualmente, sou estudante de<strong> Análise e Desenvolvimento de Sistemas</str
 </p>
 
 <p align="left">
-Linguagens: <strong>HTML</strong>, <strong>CSS</strong>, <strong> JavaScript</strong>,<strong>C#</strong>, <strong>Go</strong>
+## 👨‍💻 Linguagens:
+[![My Skills](https://skillicons.dev/icons?i=html,css,javascript,cs,go)](https://skillicons.dev)
+</p>
 
-[![My Skills](https://skillicons.dev/icons?i=html,css,javascript,c#,Go)](https://skillicons.dev)
 
+<p align="left">
+## 🗄️ Bancos de Dados: 
+[![My Skills](https://skillicons.dev/icons?i=mysql,postgres)](https://skillicons.dev)
 </p>
 
 <p align="left">
-Banco de Dados: <strong>MySQL</strong>,<strong>Postgre</strong>
+## ⚙️ Ferramentas:
+[![My Skills](https://skillicons.dev/icons?i=figma)](https://skillicons.dev)
 </p>
 
 <p align="left">
-Ferramentas: <strong>Figma</strong>
-</p>
-
-<p align="left">
-<strong>Contatos</strong>
+## 📫 Contato
 </p>
 
 <a href="https://www.linkedin.com/in/estefanyb/" title="LinkedIn">
