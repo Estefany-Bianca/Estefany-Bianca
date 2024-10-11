@@ -6,6 +6,9 @@ Atualmente, sou estudante de<strong> Análise e Desenvolvimento de Sistemas</str
 
 <p align="left">
 Linguagens: <strong>HTML</strong>, <strong>CSS</strong>, <strong> JavaScript</strong>,<strong>C#</strong>, <strong>Go</strong>
+
+[![My Skills](https://skillicons.dev/icons?i=html,css,javascript,c#,Go)](https://skillicons.dev)
+
 </p>
 
 <p align="left">
