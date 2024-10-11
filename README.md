@@ -5,9 +5,21 @@ Atualmente, sou estudante de<strong> Análise e Desenvolvimento de Sistemas</str
 </p>
 
 <p align="left">
-Linguagens: <strong>C#</strong>, <strong>Go</strong>
+Linguagens: <strong>HTML</strong>, <strong>CSS</strong>, <strong> JavaScript</strong>,<strong>C#</strong>, <strong>Go</strong>
 </p>
 
 <p align="left">
 Banco de Dados: <strong>MySQL</strong>,<strong>Postgre</strong>
 </p>
+
+<p align="left">
+Ferramentas: <strong>Figma</strong>
+</p>
+
+<p align="left">
+<strong>Contatos</strong>
+</p>
+
+<a href="https://www.linkedin.com/in/estefanyb/" title="LinkedIn">
+  <img src="https://img.shields.io/badge/-Linkedin-0e76a8?style=flat-square&logo=Linkedin&logoColor=white" alt="LinkedIn"/></a>
+  
