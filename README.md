@@ -14,11 +14,11 @@ Além da parte técnica, sou estudante de inglês, focando em termos técnicos e
 
 
 ## 🗄️ Bancos de Dados: 
-[![My Skills](https://skillicons.dev/icons?i=mysql,postgres,mongodb,node.js)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=mysql,postgres,mongodb,node)](https://skillicons.dev)
 
 
 ## ⚙️ Ferramentas:
-[![My Skills](https://skillicons.dev/icons?i=figma)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=figma,visualstudio)](https://skillicons.dev)
 
 
 ## 📫 Contato
