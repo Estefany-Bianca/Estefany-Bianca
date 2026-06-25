@@ -26,3 +26,5 @@ Além da parte técnica, sou estudante de inglês, focando em termos técnicos e
 <a href="https://www.linkedin.com/in/estefany-paula/" title="LinkedIn">
   <img src="https://img.shields.io/badge/-Linkedin-0e76a8?style=flat-square&logo=Linkedin&logoColor=white" alt="LinkedIn"/></a>
   
+
+
