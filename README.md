@@ -1,7 +1,11 @@
 ## Olá 👋, meu nome é Estefany Bianca 
 
 <p align="left">
-Atualmente, sou estudante de<strong> Análise e Desenvolvimento de Sistemas</strong> com previsão de conclusão em 2026 e busco uma transição para a área de desenvolvimento de software. Com uma sólida base como técnico em elétrica, trago um olhar prático e analítico para resolução de problemas. Estou sempre aprimorando minhas habilidades por meio de cursos, mantendo-me atualizado e preparado para as demandas do mercado. Estou em busca de um estágio ou oportunidade que me permita aplicar e expandir meus conhecimentos em tecnologia
+Graduando em ADS e Técnica em Manutenção Elétrica, com foco no desenvolvimento Back-end utilizando C#/.NET e Go (Golang).
+
+Minha experiência técnica em manutenção elétrica me deu uma base forte em raciocínio lógico, atenção a detalhes e solução de problemas sob pressão — competências que hoje aplico diretamente na estruturação de banco de dados (SQL/NoSQL) e no desenvolvimento de APIs REST.
+
+Além da parte técnica, sou estudante de inglês, focando em termos técnicos e comunicação internacional para o dia a dia corporativo. Busco ingressar no mercado de tecnologia como Desenvolvedora Back-end Júnior, trazendo resiliência, lógica apurada e facilidade para aprender novos conceitos rápidos.
 </p>
 
 
