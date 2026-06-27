@@ -1,7 +1,7 @@
 ## Olá 👋, meu nome é Estefany Bianca 
 
 <p align="left">
-Graduando em ADS e Técnica em Manutenção Elétrica, com foco no desenvolvimento Back-end utilizando C#/.NET e Go (Golang).
+Graduando em ADS e Técnica em Manutenção Elétrica, com foco no desenvolvimento Back-end utilizando javaScript e TypScript com Node.js.
 
 Minha experiência técnica em manutenção elétrica me deu uma base forte em raciocínio lógico, atenção a detalhes e solução de problemas sob pressão — competências que hoje aplico diretamente na estruturação de banco de dados (SQL/NoSQL) e no desenvolvimento de APIs REST.
 
@@ -18,7 +18,7 @@ Além da parte técnica, sou estudante de inglês, focando em termos técnicos e
 
 
 ## ⚙️ Ferramentas:
-[![My Skills](https://skillicons.dev/icons?i=node.js)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=nodejs)](https://skillicons.dev)
 
 
 ## 📫 Contato
