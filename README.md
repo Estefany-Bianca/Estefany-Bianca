@@ -10,7 +10,7 @@ Além da parte técnica, sou estudante de inglês, focando em termos técnicos e
 
 
 ## 👨‍💻 Linguagens:
-[![My Skills](https://skillicons.dev/icons?i=html,css,javascript,cs,typescript)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=html,css,javascript,typescript)](https://skillicons.dev)
 
 
 ## 🗄️ Bancos de Dados: 
@@ -18,7 +18,7 @@ Além da parte técnica, sou estudante de inglês, focando em termos técnicos e
 
 
 ## ⚙️ Ferramentas:
-[![My Skills](https://skillicons.dev/icons?i=figma,visualstudio)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=node.js)](https://skillicons.dev)
 
 
 ## 📫 Contato
